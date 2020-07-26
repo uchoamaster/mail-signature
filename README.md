@@ -1,6 +1,6 @@
-#Código base em html para assinatura de email de empresas coorporativas,
+# Código base em html para assinatura de email de empresas coorporativas,
 
-##Apenas retirei as imagens, para não dar problema, mas basta por imagens nos lugares dos links que vai funcionar tranquilamente.
+## Apenas retirei as imagens, para não dar problema, mas basta por imagens nos lugares dos links que vai funcionar tranquilamente.
 
 # Como funciona:
 - [X] Parte 1 : Editar os links das imagens 
